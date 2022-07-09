@@ -1,0 +1,14 @@
+name: Npctdi
+version: '${project.version}'
+main: world.ntdi.npctdi.Npctdi
+api-version: 1.19
+prefix: Npctdi
+authors: [ Ntdi ]
+description: An Npc Plugin
+website: ntdi.world
+commands:
+  create:
+    name: create
+    usage: /create
+    description: Create a Npc
+    aliases: [ create ]
